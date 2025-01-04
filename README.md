@@ -1,5 +1,3 @@
-[![Support Palestine](https://raw.githubusercontent.com/hampusborgos/country-flags/main/png100px/ps.png)](https://github.com/hampusborgos/country-flags/blob/main/png100px/ps.png)
-
 ### Hi there, I am Abdelrhman Said.
 
 I am a Quality-oriented Software Engineer with a passion for building products that are easy to use, easy to understand, and easy to maintain.
